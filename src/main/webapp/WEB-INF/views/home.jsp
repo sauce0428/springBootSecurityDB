@@ -10,7 +10,7 @@
 <title>T1 Community | Board List</title>
 </head>
 <body>
-	<h1>home page</h1>
+	<h1>Home</h1>
 	<p>서버의 날짜는 ${serverTime}</p>
 	<a href="board/list">회원 게시판</a>
 	<br>
